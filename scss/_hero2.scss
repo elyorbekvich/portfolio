@@ -1,0 +1,25 @@
+.hero2{
+    background: rgb(20, 20, 20),;
+}
+.hero2__title{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 50px;
+    font-weight: 700;
+}
+.hero2__text{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+    font-weight: 600;
+}
+.hero2__btn{
+    margin-left: 500px;
+    padding: 10px 25px;
+    border-radius: 10px;
+    border: $darkblue 2px solid;
+    color: $darkblue;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}

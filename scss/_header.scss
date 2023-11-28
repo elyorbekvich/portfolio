@@ -1,0 +1,40 @@
+.header{
+  
+    background-color: black;
+    height: 150px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav__list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav__item{
+    margin-left: 50px;
+    
+}
+.header__img{
+    width: 100px;
+    height: 100px;
+   object-fit: cover;
+}
+.nav__item a{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 70px;
+}
+.header__title{
+    font-size: 60px;
+    font-weight: 300;
+    color: white;
+    
+    margin-top: 20px;
+}
+.nav__box a{
+    display: flex;
+}
